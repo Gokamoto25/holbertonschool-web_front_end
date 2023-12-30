@@ -1,1 +1,1 @@
-Project HTML for Holberton
+PROJECT OF HOLBERTON
